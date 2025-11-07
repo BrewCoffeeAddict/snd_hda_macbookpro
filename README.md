@@ -95,8 +95,8 @@ cd snd_hda_macbookpro/
 ./install.cirrus.driver.sh
 reboot
 ```
+
 **Deleting driver**
--------------
 
 ```
 # Check your kernel version
