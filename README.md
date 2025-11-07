@@ -106,7 +106,7 @@ sudo rm /lib/modules/{kernel version}/updates/snd-hda-codec-cs8409.ko
 sudo depmod -a
 ```
 
-**Dynamic Kernel Module Support (dkms) pre 6.17:**
+Dynamic Kernel Module Support (dkms) pre 6.17:
 -------------
 
 dkms is a framework which allows kernel modules to be dynamically built for each kernel on your system.
